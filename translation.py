@@ -1,8 +1,10 @@
 class Translation(object):
-    START_TEXT = """Hello,
+    START_TEXT = """🙋Hello,
 This is a Telegram URL Upload Bot!
 
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
+<b>☺Please send me any direct download URL Link, i can upload to telegram as File/Video
+
+I also upload YouTube videos📥</b>
 
 /help for more details..
 
@@ -13,7 +15,7 @@ Support : @JokkerKing"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
-    NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    NOYES_URL = "URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "<b>trying to download📥 </b>"
     UPLOAD_START = "<b>trying to upload📥</b>"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
@@ -33,7 +35,7 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 FULL FREE😅
 Telegram ID: <code>{}</code>
-Plan name: Free Cloned User
+Plan name: Free User
 Expires on: 31/12/2020
 Contact: @JokkerKing"""
     HELP_USER = """Hi am URL Uploader bot..
@@ -41,10 +43,14 @@ Contact: @JokkerKing"""
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
+   <b>SVideo - Give File as video with Screenshots
+   <b>DFile</b>  - Give File with Screenshots
+   <b>Video</b>  - Give File as video without Screenshots
+   <b>DFile</b>  - Give File without Screenshots
+
+ ♨More detail - Click the Model for uploading
+👉[ Model for Uploading...]
+(https://telegra.ph/How-to-use-This-Bot-03-16)
 
 Send /me to know current plan details
 
