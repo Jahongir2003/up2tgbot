@@ -49,8 +49,7 @@ Contact: @JokkerKing"""
    <b>DFile</b>  - Give File without Screenshots
 
  ♨More detail - Click the Model for uploading
-👉[ Model for Uploading...]
-(https://telegra.ph/How-to-use-This-Bot-03-16)
+👉<a href="https://telegra.ph/How-to-use-This-Bot-03-16>Model for Uploading...</a>
 
 Send /me to know current plan details
 
